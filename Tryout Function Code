@@ -2,19 +2,19 @@
 # Note: code is known not to work for Alaska. Other states possible.
 
 
-# full code that generalizes our plot
+# plotfunc source
 source("https://raw.githubusercontent.com/kaeng/Project1/master/plotfunc")
 
-plotfunc("nd")
-plotfunc("ms")
+plotfunc("nd") # North Dakota
+plotfunc("ms") # Mississippi
 
 plotfunc("or") # Oregon
 plotfunc("ks") # Kansas
 plotfunc("de") # Delaware
-plotfunc("nj") # New Jersey is large, can take a while to download data
+plotfunc("nj") # New Jersey is larger, can take a while to download data depending on internet connection
 
 
-# test function that examines variability Q1, med, Q3. Only for 2001-2002. Also includes top 1 percent.
+# testfunc source
 source("https://raw.githubusercontent.com/kaeng/Project1/master/testfunc")
 
 testfunc("ny")
