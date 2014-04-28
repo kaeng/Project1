@@ -7,3 +7,4 @@ Future improvements could include plotting arguments to show median hourly incom
 
 The testfunc("state.abrv") function profile plots the first, second, and third quartiles, in addition to the top 1 percentile for the years 2001 and 2002. This is an unfinished attept to visualize variability. Future plots may be inspired by the profile plots created in this NYT article:
 http://www.nytimes.com/2014/04/23/upshot/the-american-middle-class-is-no-longer-the-worlds-richest.html?src=me&ref=general&_r=0
+(Thanks, Alix!)
