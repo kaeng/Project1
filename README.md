@@ -1,6 +1,8 @@
 Project1
 ========
 
+[American Community Survey] (http://www.census.gov/acs/www/data_documentation/pums_data/)
+
 Project Group: Ben Brintz, Katie Eng, FangWu Wei, Lu Wang
 
 The function `plotfunc("state.abrv")` will produce a state's mean profile of average hourly income by educational attainment level from years 2000-2012. It will also construct profile plots for the proportion of respondents that reported working within the last year, again by educational attainment, as a measurement of "unemployment." An example can be found in the .png file [here](https://github.com/kaeng/Project1/blob/master/Example%20Output%20Oregon%20Profile%20Plots.png).
